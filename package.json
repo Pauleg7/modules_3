@@ -1,0 +1,23 @@
+{
+  "name": "modules_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauleg7/modules_3.git"
+  },
+  "author": "Pauleg7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauleg7/modules_3/issues"
+  },
+  "homepage": "https://github.com/Pauleg7/modules_3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
